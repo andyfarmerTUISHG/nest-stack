@@ -1,2 +1,3 @@
-# akf-conventional-commits
-Example setup of Conventional Commits
+# Node & Express server, but with TypeScript
+
+Quick Experiment with Node and Express with TypeScript.
