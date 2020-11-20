@@ -8,7 +8,8 @@
     "changelog:update": "conventional-changelog --preset angular --infile CHANGELOG.md --same-file -r 0",
     "test": "echo \"Error: no test specified\" && exit 1",
     "release": "standard-version",
-    "server": "nodemon server.ts"
+    "server": "nodemon server.ts",
+    "build": "tsc --project ./"
   },
   "repository": {
     "type": "git",
