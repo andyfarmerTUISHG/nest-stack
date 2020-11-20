@@ -1,0 +1,26 @@
+{
+  "name": "akf-conventional-commits",
+  "version": "1.2.1",
+  "description": "Skeleton of Conventional Commits",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "release": "standard-version"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andyfarmerTUISHG/akf-conventional-commits.git"
+  },
+  "author": "Andy Farmer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andyfarmerTUISHG/akf-conventional-commits/issues"
+  },
+  "homepage": "https://github.com/andyfarmerTUISHG/akf-conventional-commits#readme",
+  "devDependencies": {
+    "standard-version": "^7.1.0"
+  },
+  "dependencies": {
+    "nodemon": "^2.0.3"
+  }
+}
